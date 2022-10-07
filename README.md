@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/e1000ab8b19bfa53bb783de70925d854bb1e0142f9f8242de4aab94bf53d64ef/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966" width="40px">
 </div>
 <h3 align="center">Currently learning and exploring new things.</h3>
-<h3 align="center"><b>Coder💻 || Web developer👩🏻‍💻</b></h3>
-
+<h3 align="center">Student: MCA@'25 NIT Jamshedpur</h3>
+<h3 align="center"> Developer | Coder | Programmer | HackerRank 5⭐ Problem Solving ,C++ <br> Competitive Coding | NITian | Fullstack | web automation expert | <br> Freelancer | Open source contributor </h3>
+<h3 align="center">Checkout My <a href="https://codewithnick.github.io/">Website</a></h3>
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="70">
 </p>
@@ -52,12 +53,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me🤝:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/codewithnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithnick" height="30" width="40" /></a>
-<a href="https://fb.com/dipti.agarwal.7792052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithnick" height="30" width="40" /></a>
 <a href="https://instagram.com/diptiagarwal456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithnick" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codewithnick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codewithnick" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/codewithnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushhayush" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codewithnick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codewithnick" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ayushhayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ayushhayush" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/code.with.nick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codewithnick" height="30" width="40" /></a>
+
 </p>
 
 <br/>
