@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <h3 align="center">Student: MCA@'25 NIT Jamshedpur</h3>
 <h3 align="center"> Developer | Coder | Programmer | HackerRank 5⭐ Problem Solving ,C++ <br> Competitive Coding | NITian | Fullstack | web automation expert | <br> Freelancer | Open source contributor </h3>
 <h3 align="center">Checkout My <a href="https://codewithnick.github.io/">Website</a></h3>
+<h3 align="left">OPEN TO INTERNSHIP/JOBS</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="70">
 </p>
